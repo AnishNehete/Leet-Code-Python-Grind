@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
 ## Counting
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
