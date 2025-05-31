@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Heap (Priority Queue)
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
