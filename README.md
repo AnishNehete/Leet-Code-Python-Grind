@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3194-find-words-containing-character](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
+| [3194-find-words-containing-character](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
