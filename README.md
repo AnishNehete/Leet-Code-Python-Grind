@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
