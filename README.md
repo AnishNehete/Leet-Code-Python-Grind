@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
