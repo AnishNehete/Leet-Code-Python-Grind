@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
