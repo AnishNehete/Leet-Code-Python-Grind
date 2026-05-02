@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -127,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0206-reverse-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
