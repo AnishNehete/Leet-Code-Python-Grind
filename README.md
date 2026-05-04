@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [0271-encode-and-decode-strings](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Heap (Priority Queue)
@@ -125,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0271-encode-and-decode-strings) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
