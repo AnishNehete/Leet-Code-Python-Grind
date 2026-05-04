@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
