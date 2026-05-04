@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
