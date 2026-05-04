@@ -1,20 +1,15 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        row = len(matrix)
-        column = len(matrix[0])
-        t = row * column
-        l = 0
-        r = t -1 
-        #doing this because we need to work on flattened version of array
-        while l<=r:
-            row = (l +r) //2
-            i = row // column
-            j= row % column
-            midnum = matrix[i][j]
-            if target == midnum:
+        ROWS, COLS = len(matrix), len(matrix[0])
+
+        l, r = 0, ROWS * COLS - 1
+        while l <= r:
+            m = l + (r - l) // 2
+            row, col = m // COLS, m % COLS
+            if target > matrix[row][col]:
+                l = m + 1
+            elif target < matrix[row][col]:
+                r = m - 1
+            else:
                 return True
-            elif target < midnum:
-                r = row-1
-            else: 
-                l = row +1
         return False
