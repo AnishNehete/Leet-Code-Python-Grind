@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0271-encode-and-decode-strings) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0981-time-based-key-value-store) |
 ## Union-Find
 |  |
@@ -201,8 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0053-maximum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
