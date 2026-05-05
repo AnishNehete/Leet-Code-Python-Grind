@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
 ## Tree
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
