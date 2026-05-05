@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0994-rotting-oranges) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Heap (Priority Queue)
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
