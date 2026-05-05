@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0875-koko-eating-bananas) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 | [3778-transform-array-by-parity](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/AnishNehete/Leet-Code-Python-Grind/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
